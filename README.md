@@ -14,7 +14,7 @@
 
 
 # :eyes: Demonstração
- <img src="https://github.com/ismaelgomesdasilva/Playstation-store-final/demo.gif">
+ <img src="/demo.gif">
 
 # :computer: Tecnologias
 Projeto pessoal feito para fins didáticos. 
