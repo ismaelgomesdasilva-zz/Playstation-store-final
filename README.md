@@ -24,8 +24,7 @@ Projeto pessoal feito para fins didáticos.
 * JAVASCRIPT   
      
 
-# :rocket: Features
+# :rocket: Funcionalidades
 
-* Register, list and delete users
-
+* Pagina demonstrativa do controle PS5
 
